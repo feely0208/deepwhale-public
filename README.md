@@ -14,6 +14,7 @@
 | DSH 插件清单与说明 | [docs/plugins.md](docs/plugins.md) |
 | 法律技能清单（27 个） | [docs/legal-skills.md](docs/legal-skills.md) |
 | 法律技能源码与安装包 | https://github.com/feely0208/legal-skills |
+| 最终用户许可协议（EULA） | [EULA.md](EULA.md) |
 | 问题反馈 | Issues |
 
 ## 插件安装
