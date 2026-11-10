@@ -6,4 +6,4 @@ MIT 许可证只授予代码的使用、修改、分发权利，**不授予**「
 - 不得暗示你的衍生作品由深鲸官方发布或背书；
 - 官方产品与下载仅以 https://deepwhale.org.cn 为准。
 
-如需品牌合作或授权，请联系 contact@deepwhale.org.cn。
+如需品牌合作或授权，请联系 service@deepwhale.org。
